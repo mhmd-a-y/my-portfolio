@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">PLC hydraulic cylinder control illustration</title>
+  <desc id="desc">Simplified technical illustration showing an OMRON PLC, HMI, limit switches, and a hydraulic cylinder.</desc>
+  <rect width="960" height="600" fill="#f8fafc"/>
+  <g stroke="#0f172a" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="65" y="165" width="205" height="245" rx="10" fill="#dbeafe"/>
+    <rect x="88" y="195" width="160" height="45" rx="4" fill="#eff6ff"/>
+    <path d="M105 217h28M145 217h28M185 217h28" stroke="#0284c7"/>
+    <path d="M105 270h125M105 305h125M105 340h125" stroke="#0284c7"/>
+    <circle cx="108" cy="380" r="10" fill="#22c55e"/><circle cx="145" cy="380" r="10" fill="#f59e0b"/>
+    <rect x="390" y="85" width="200" height="115" rx="10" fill="#ecfeff"/>
+    <rect x="410" y="105" width="160" height="70" rx="5" fill="#cffafe"/>
+    <path d="M430 140h85M430 155h55" stroke="#0284c7"/>
+    <path d="M270 240H390M270 300H390M270 360H390" stroke="#0284c7"/>
+    <rect x="400" y="275" width="190" height="120" rx="10" fill="#e0f2fe"/>
+    <path d="M430 315h130M430 355h130" stroke="#0284c7"/>
+    <rect x="620" y="260" width="220" height="150" rx="10" fill="#dbeafe"/>
+    <path d="M645 300h145M645 360h145" stroke="#0284c7"/>
+    <path d="M700 260v-35M790 260v-35M700 410v35M790 410v35"/>
+    <path d="M700 225h90M700 445h90" stroke="#0284c7"/>
+    <rect x="620" y="180" width="32" height="42" rx="4" fill="#fef3c7"/>
+    <rect x="808" y="180" width="32" height="42" rx="4" fill="#fef3c7"/>
+    <path d="M636 222v38M824 222v38M636 180V140H590M824 180V140H590" stroke="#f59e0b"/>
+    <path d="M590 330h30M590 350h30" stroke="#0284c7"/>
+  </g>
+  <g fill="#0f172a" font-family="Arial, sans-serif">
+    <text x="103" y="145" font-size="25" font-weight="700">OMRON CJ1M PLC</text>
+    <text x="445" y="72" font-size="25" font-weight="700">HMI</text>
+    <text x="412" y="430" font-size="22" font-weight="700">HYDRAULIC VALVE</text>
+    <text x="635" y="490" font-size="25" font-weight="700">CYLINDER</text>
+    <text x="610" y="535" font-size="18" fill="#b45309">LIMIT SWITCHES • 5-CYCLE COUNTER</text>
+    <text x="35" y="52" font-size="18" fill="#64748b">SIMPLIFIED SCHEMATIC — REPLACE WITH PLC/HMI SCREENSHOTS</text>
+  </g>
+</svg>

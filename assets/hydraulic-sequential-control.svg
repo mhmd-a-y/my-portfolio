@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Hydraulic sequential control illustration</title>
+  <desc id="desc">Simplified technical illustration of two hydraulic cylinders connected through pressure-controlled sequence valves.</desc>
+  <rect width="960" height="600" fill="#f8fafc"/>
+  <g stroke="#0f172a" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="65" y="225" width="120" height="150" rx="8" fill="#dbeafe"/>
+    <path d="M85 255h80M85 300h80M85 345h80" stroke="#0284c7"/>
+    <circle cx="125" cy="200" r="25" fill="#e0f2fe"/>
+    <path d="M125 175v-25M100 200H75M150 200h25"/>
+    <path d="M185 275H300M185 325H300" stroke="#0284c7"/>
+    <rect x="300" y="245" width="100" height="110" rx="8" fill="#ecfeff"/>
+    <path d="M325 270l50 30-50 30z" fill="#67e8f9"/>
+    <path d="M400 275h90M400 325h90" stroke="#0284c7"/>
+    <rect x="490" y="205" width="175" height="140" rx="10" fill="#dbeafe"/>
+    <path d="M510 245h135M510 295h135" stroke="#0284c7"/>
+    <path d="M535 225v-35M620 225v-35M535 345v35M620 345v35"/>
+    <path d="M535 190h85M535 380h85" stroke="#0284c7"/>
+    <path d="M665 275h90M665 325h90" stroke="#0284c7"/>
+    <rect x="755" y="245" width="100" height="110" rx="8" fill="#ecfeff"/>
+    <path d="M780 270l50 30-50 30z" fill="#67e8f9"/>
+    <path d="M855 275h40v-100H710v-35" stroke="#0284c7"/>
+    <path d="M855 325h40v100H710v35" stroke="#0284c7"/>
+    <path d="M700 160h45M700 440h45" stroke="#f59e0b"/>
+  </g>
+  <g fill="#0f172a" font-family="Arial, sans-serif">
+    <text x="78" y="420" font-size="24" font-weight="700">PUMP</text>
+    <text x="296" y="395" font-size="20">PCV1</text>
+    <text x="505" y="420" font-size="24" font-weight="700">CYLINDER A</text>
+    <text x="748" y="395" font-size="20">PCV2–4</text>
+    <text x="753" y="215" font-size="24" font-weight="700">CYLINDER B</text>
+    <text x="315" y="535" font-size="28" fill="#0369a1">A+ → B+ → B− → A−</text>
+    <text x="35" y="52" font-size="18" fill="#64748b">SIMPLIFIED SCHEMATIC — REPLACE WITH FLUIDSIM SCREENSHOT</text>
+  </g>
+</svg>
