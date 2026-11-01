@@ -18,7 +18,7 @@ export const siteConfig = {
 
   // Path is relative to the project root / public folder.
   // Place your CV file at public/assets/cv.pdf to enable the download button.
-  cvPath: 'assets/cv.pdf',
+  cvPath:  `${import.meta.env.BASE_URL}assets/cv.pdf`,
 
   // Optional profile photograph. Place at public/assets/profile.jpg to use it.
   // Leave empty to show a clean initials placeholder instead.
