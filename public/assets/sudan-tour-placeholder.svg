@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" role="img" aria-labelledby="title desc">
+  <title id="title">Sudan Tour project placeholder</title>
+  <desc id="desc">A clean placeholder illustration for the Sudan Tour final project, ready to be replaced with a website screenshot.</desc>
+  <rect width="960" height="520" fill="#f8fafc"/>
+  <rect x="64" y="54" width="832" height="412" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="4"/>
+  <rect x="64" y="54" width="832" height="58" rx="12" fill="#e0f2fe"/>
+  <circle cx="97" cy="83" r="8" fill="#38bdf8"/><circle cx="123" cy="83" r="8" fill="#7dd3fc"/><circle cx="149" cy="83" r="8" fill="#bae6fd"/>
+  <path d="M120 170 C205 122 280 170 336 144 S468 158 520 206 S650 198 708 245 S792 282 834 252 L826 390 C758 414 677 376 616 390 S470 420 393 382 S238 418 130 368 Z" fill="#bae6fd" stroke="#0284c7" stroke-width="5"/>
+  <path d="M235 231h170M235 263h120M235 295h195" stroke="#0284c7" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="585" cy="258" r="13" fill="#f59e0b"/><circle cx="695" cy="321" r="13" fill="#f59e0b"/><circle cx="765" cy="226" r="13" fill="#f59e0b"/>
+  <text x="88" y="145" fill="#64748b" font-family="Arial, sans-serif" font-size="18">SUDAN TOUR — PROJECT IMAGE PLACEHOLDER</text>
+  <text x="300" y="480" fill="#0369a1" font-family="Arial, sans-serif" font-size="22">Replace with a Sudan Tour website screenshot</text>
+</svg>

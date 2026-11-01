@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Sustainable birdhouse design placeholder</title>
+  <desc id="desc">A clean technical placeholder illustration for a sustainable birdhouse design project.</desc>
+  <rect width="960" height="600" fill="#f8fafc"/>
+  <path d="M190 475h580" stroke="#94a3b8" stroke-width="6"/>
+  <path d="M300 460V245l180-150 180 150v215" fill="#dbeafe" stroke="#0f172a" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M270 255l210-175 210 175" fill="#bfdbfe" stroke="#0f172a" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M390 460V300h180v160" fill="#fef3c7" stroke="#0f172a" stroke-width="6"/>
+  <circle cx="480" cy="270" r="48" fill="#f8fafc" stroke="#0284c7" stroke-width="8"/>
+  <path d="M480 318v35M440 353h80" stroke="#0284c7" stroke-width="8" stroke-linecap="round"/>
+  <path d="M360 460V510M600 460V510" stroke="#0f172a" stroke-width="6"/>
+  <path d="M670 165l55-70M720 210l85-30M290 175l-55-70" stroke="#22c55e" stroke-width="7" stroke-linecap="round"/>
+  <path d="M205 125c35-42 68-36 92 0M746 118c36-42 68-36 92 0" fill="none" stroke="#22c55e" stroke-width="6" stroke-linecap="round"/>
+  <g fill="#0f172a" font-family="Arial, sans-serif">
+    <text x="62" y="55" font-size="18" fill="#64748b">SUSTAINABLE BIRDHOUSE DESIGN — PROJECT IMAGE PLACEHOLDER</text>
+    <text x="350" y="565" font-size="24" fill="#0369a1">Replace with project photo or AutoCAD drawing</text>
+  </g>
+</svg>
