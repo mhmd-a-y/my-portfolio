@@ -14,7 +14,7 @@ export const siteConfig = {
   location: 'Kuala Lumpur, Malaysia',
   email: '', // <-- Insert your real email, e.g. "mohamed@example.com"
   linkedin: 'https://www.linkedin.com/in/mhmd-a-y/',
-  github: 'https://github.com/MoHaMed-Abdlla?tab=repositories',
+  github: 'https://github.com/mhmd-a-y?tab=repositories',
 
   // Path is relative to the project root / public folder.
   // Place your CV file at public/assets/cv.pdf to enable the download button.
