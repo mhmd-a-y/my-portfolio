@@ -6,7 +6,7 @@ import { fileURLToPath, URL } from 'node:url';
 // project subpath (e.g. https://<user>.github.io/<repo>/).
 export default defineConfig({
   plugins: [react()],
-  base: '/my-portfolio',
+  base: '/my-portfolio/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),
